@@ -1,6 +1,9 @@
 Daniel Finch
+
 August 29 2022
+
 Sprint 1 Baby Project Report
+
 	The available accounts for the policy holders are Fixed, FixedLT, 1YrA, 1YrD, 1YrF, and Var. All 3 are allocated 100% in Vanguard. The table representations of the data can be seen in the code file.
 	
 The Json file with illustration ID: 0a58ef5a-9f01-49bc-9bb7-f13ab042b80f has the following Riders:
