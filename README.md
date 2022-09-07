@@ -2,6 +2,7 @@ Daniel Finch
 August 29 2022
 Sprint 1 Baby Project Report
 	The available accounts for the policy holders are Fixed, FixedLT, 1YrA, 1YrD, 1YrF, and Var. All 3 are allocated 100% in Vanguard. The table representations of the data can be seen in the code file.
+	
 The Json file with illustration ID: 0a58ef5a-9f01-49bc-9bb7-f13ab042b80f has the following Riders:
 •	Conversion Rider (Automatic): provided at no additional cost, this allows policy holders to change policies during the 8th policy year without facing Surrender fees.
 •	Minimum Indexed Benefit Rider (Automatic): included at no additional cost, it may provide an Indexed Termination Credit (ITC) when Segment Indexed Interest is less than the sum of the Indexed Fixed Option Charges. ITC adds to the Net Cash Surrender Value, can impact the Death Benefit, and can impact whether or not a policy lapses and the amount of payment due during a grace period.
